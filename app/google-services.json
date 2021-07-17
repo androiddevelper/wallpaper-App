@@ -1,0 +1,98 @@
+{
+  "project_info": {
+    "project_number": "515181930356",
+    "firebase_url": "https://my-image-16dd1-default-rtdb.firebaseio.com",
+    "project_id": "my-image-16dd1",
+    "storage_bucket": "my-image-16dd1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515181930356:android:ba05ceed7e114c472eee21",
+        "android_client_info": {
+          "package_name": "com.waseem.myimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515181930356-g4dqiga97hm15so6lko7n2a39f2ba8r5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKNFmuDavcPomEe6_aj9mUueyE3kaJ9kQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515181930356-g4dqiga97hm15so6lko7n2a39f2ba8r5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515181930356:android:875a016bda6c4e372eee21",
+        "android_client_info": {
+          "package_name": "com.waseem.mywallpeparapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515181930356-g4dqiga97hm15so6lko7n2a39f2ba8r5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKNFmuDavcPomEe6_aj9mUueyE3kaJ9kQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515181930356-g4dqiga97hm15so6lko7n2a39f2ba8r5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515181930356:android:0219af90b956e9852eee21",
+        "android_client_info": {
+          "package_name": "com.waseem.readimage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515181930356-g4dqiga97hm15so6lko7n2a39f2ba8r5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBKNFmuDavcPomEe6_aj9mUueyE3kaJ9kQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515181930356-g4dqiga97hm15so6lko7n2a39f2ba8r5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
